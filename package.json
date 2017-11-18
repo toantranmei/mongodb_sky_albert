@@ -1,0 +1,24 @@
+{
+  "name": "mongodb_sky_albert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trantoan960/mongodb_sky_albert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trantoan960/mongodb_sky_albert/issues"
+  },
+  "homepage": "https://github.com/trantoan960/mongodb_sky_albert#readme",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mongoose": "^4.13.4"
+  }
+}
